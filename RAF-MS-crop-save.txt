@@ -1,0 +1,7 @@
+1,Wheat,Grains,22
+2,Carrot,Roots,54
+3,Pumpkin,Seeds,25
+4,Walnut,Nuts,60
+5,Truffles,Mushrooms,0
+6,Hay,Straws,29
+9,Fish,Fish,24

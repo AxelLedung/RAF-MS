@@ -1,0 +1,8 @@
+1,Bessy,Cow,Grains@Straws
+2,Winston,Pig,Roots@Mushrooms
+3,Lassy,Cow,Grains
+4,Spirit,Horse,Straws
+5,Ken,Chicken,Seeds
+7,Åsnan2,Åsna,Straw@Grains
+8,Nozdurmo,Drake,Meat
+9,Sara,Cat,Fish@Shrimp
